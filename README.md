@@ -6,4 +6,4 @@
 
 ---
 
-[![Uriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielHRO)](https://github.com/anuraghazra/github-readme-stats)
+![Uriel Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrielHRO&show_icons=true&theme=radical)
